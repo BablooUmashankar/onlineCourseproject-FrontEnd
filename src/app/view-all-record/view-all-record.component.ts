@@ -13,6 +13,12 @@ export class ViewAllRecordComponent {
 
   OnInit(){
 
+    
+  }
+
+  getRecord(){
+    console.log("Hello ::::");
+    
   }
 
 }
